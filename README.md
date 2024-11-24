@@ -17,4 +17,3 @@ One Piece chronicles the adventures of Monkey D. Luffy, an easy-going young pira
 8. Franky
 9. Brook
 10. Jinbe
-## Quote
